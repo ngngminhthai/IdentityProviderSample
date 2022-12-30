@@ -5,6 +5,11 @@
         {
             "library": "bootstrap@4.6.0",
             "destination": "wwwroot/lib/bootstrap/"
+        },
+        {
+            "provider": "unpkg",
+            "library": "gentelella@1.4.0",
+            "destination": "wwwroot/lib/gentelella/"
         }
     ]
 }
